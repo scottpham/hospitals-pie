@@ -323,15 +323,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/js\/graphic.js": {
+	"\/js\/Chart.min.js": {
 		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
-		"inputAbbreviatedPath": "\/js\/graphic.js",
-		"outputAbbreviatedPath": "\/js\/min\/graphic-min.js",
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/Chart.min.js",
+		"outputAbbreviatedPath": "\/js\/min\/Chart.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 0
 		},
 	"\/js\/legend.js": {
@@ -340,6 +340,17 @@
 		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/js\/legend.js",
 		"outputAbbreviatedPath": "\/js\/min\/legend-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 0
+		},
+	"\/js\/pie.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
+		"inputAbbreviatedPath": "\/js\/pie.js",
+		"outputAbbreviatedPath": "\/js\/min\/pie-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
